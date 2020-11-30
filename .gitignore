@@ -1,0 +1,19 @@
+### Daily / CppProject ###
+
+*.vcxproj
+*.filters
+*.user
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.log
+*.recipe
+*.exe
+*.ilk
+
+.vs/
+.CppProject/.vs/
+.CppProject/Debug/
+.CppProject/CppProject/Debug/
+
